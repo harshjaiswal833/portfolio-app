@@ -26,9 +26,9 @@ Utilizes various Flutter packages for enhanced functionality and UI components, 
 
 ## Screenshots
 
-![Projects Showcase](screenshots\PortfolioApp1.png),(screenshots\portfolioapp2.png),(screenshots\portfolioapp3.png)
-![About Me](screenshots\personalInfo.jpg)
-![Contact Information](screenshots\contact us.jpg)
+![Projects Showcase](screenshots/PortfolioApp1.png),(screenshots/portfolioapp2.png),(screenshots/portfolioapp3.png)
+![About Me](screenshots/personalInfo.jpg)
+![Contact Information](screenshots/contact us.jpg)
 ## Technologies Used
 
 - Flutter
