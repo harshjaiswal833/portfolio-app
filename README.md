@@ -28,7 +28,7 @@ Utilizes various Flutter packages for enhanced functionality and UI components, 
 
 ![Projects Showcase](screenshots/PortfolioApp1.png) ![Projects Showcase](screenshots/portfolioapp2.png) 
 ![About Me](screenshots/personalInfo.jpg)
-![Contact](screenshots/contact_us.jpg)sgit add
+![Contact](screenshots/contact_us.jpg)
 ## Technologies Used
 
 - Flutter
