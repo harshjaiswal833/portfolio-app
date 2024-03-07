@@ -26,11 +26,9 @@ Utilizes various Flutter packages for enhanced functionality and UI components, 
 
 ## Screenshots
 
-## Screenshots
-
-<img src="screenshots/PortfolioApp1.png" alt="Projects Showcase" width="200"> <img src="screenshots/portfolioapp2.png" alt="Projects Showcase" width="200"> <img src="screenshots/portfolioapp3.png" alt="Projects Showcase" width="200">
-<img src="screenshots/personalInfo.jpg" alt="About Me" width="200"> <img src="screenshots/contact_us.jpg" alt="Contact" width="200">
-
+![Projects Showcase](screenshots/PortfolioApp1.png) ![Projects Showcase](screenshots/portfolioapp2.png) 
+![About Me](screenshots/personalInfo.jpg)
+![Contact](screenshots/contact_us.jpg)sgit add
 ## Technologies Used
 
 - Flutter
